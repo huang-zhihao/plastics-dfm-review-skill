@@ -1,26 +1,30 @@
 {
   "id": "skill-mvp_20260823",
-  "title": "塑件评审 Skill MVP（评审流程骨架 + 七大类核心规则库）",
+  "title": "塑件评审 Skill MVP（评审流程 + 九大规则类别 + 材料速查 + 复审销项）",
   "type": "feature",
-  "status": "pending",
+  "status": "completed",
   "priority": "high",
   "created": "2026-08-23T00:00:00Z",
   "updated": "2026-08-23T00:00:00Z",
-  "started": null,
-  "completed": null,
+  "started": "2026-08-23T00:00:00Z",
+  "completed": "2026-08-23T00:00:00Z",
   "assignee": "@ASUS",
   "phases": {
     "total": 3,
-    "current": 0,
-    "completed": 0
+    "current": 3,
+    "completed": 3
   },
   "tasks": {
-    "total": 10,
-    "completed": 0,
+    "total": 18,
+    "completed": 18,
     "in_progress": 0,
-    "pending": 10
+    "pending": 0
   },
-  "checkpoints": [],
+  "checkpoints": [
+    {"phase": 1, "sha": "f04e8aa", "date": "2026-08-23T00:00:00Z"},
+    {"phase": 2, "sha": "35567af", "date": "2026-08-23T00:00:00Z"},
+    {"phase": 3, "sha": "final", "date": "2026-08-23T00:00:00Z"}
+  ],
   "dependencies": [],
-  "tags": ["skill", "dfm", "rules", "mvp"]
+  "tags": ["skill", "dfm", "rules", "mvp", "material", "surface", "tolerance"]
 }

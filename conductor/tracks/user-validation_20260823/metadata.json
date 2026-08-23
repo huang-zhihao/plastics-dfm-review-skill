@@ -1,0 +1,28 @@
+{
+  "id": "user-validation_20260823",
+  "title": "真实用户验证（3 位目标用户 × 真实设计评审）",
+  "type": "feature",
+  "status": "pending",
+  "priority": "high",
+  "created": "2026-08-23T00:00:00Z",
+  "updated": "2026-08-23T00:00:00Z",
+  "started": null,
+  "completed": null,
+  "assignee": "@ASUS（产品负责人组织用户）",
+  "phases": {
+    "total": 3,
+    "current": 0,
+    "completed": 0
+  },
+  "tasks": {
+    "total": 7,
+    "completed": 0,
+    "in_progress": 0,
+    "pending": 7
+  },
+  "checkpoints": [],
+  "dependencies": [
+    {"id": "skill-mvp_20260823", "type": "hard", "status": "completed"}
+  ],
+  "tags": ["validation", "users", "phase3"]
+}

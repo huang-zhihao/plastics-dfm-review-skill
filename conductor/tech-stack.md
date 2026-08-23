@@ -24,6 +24,6 @@
 ## 基础设施
 
 - **无服务器、无数据库**：MVP 全部为本地 Markdown 文件，git 管理
-- 仓库根目录即 skill 源码目录（SKILL.md 在根目录），`conductor/` 为项目管理目录，互不干扰
-- 部署方式：将 skill 目录复制/链接到 `C:\Users\ASUS\.zcode\skills\`（或打包分享给同事）
+- skill 源码位于仓库内 `.agents/skills/plastic-part-review/`（ZCode 标准发现路径，项目内自动生效）；`conductor/` 为项目管理目录，互不干扰
+- 分享/个人安装：将 `plastic-part-review/` 整个目录复制到 `~/.zcode/skills/` 或 `~/.agents/skills/`（conductor/ 不随 skill 分发）
 - 规则库组织：`references/rules/` 按类别分文件，规则编号格式 `R-{类别码}-{序号}`（如 R-BT-03 = 壁厚类第 3 条）
