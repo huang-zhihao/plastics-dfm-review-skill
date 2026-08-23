@@ -23,7 +23,7 @@
   "checkpoints": [
     {"phase": 1, "sha": "f04e8aa", "date": "2026-08-23T00:00:00Z"},
     {"phase": 2, "sha": "35567af", "date": "2026-08-23T00:00:00Z"},
-    {"phase": 3, "sha": "final", "date": "2026-08-23T00:00:00Z"}
+    {"phase": 3, "sha": "97c6b72", "date": "2026-08-23T00:00:00Z"}
   ],
   "dependencies": [],
   "tags": ["skill", "dfm", "rules", "mvp", "material", "surface", "tolerance"]
